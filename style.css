@@ -1,0 +1,18 @@
+.heading
+{color:brown;
+    font-size:"40";text-decoration:underline;text-decoration-style: dotted ;
+
+}
+#messi{
+    color:red;
+    font-family: 'Times New Roman', Times, serif;font-style:italic;
+    font-size:larger;font-weight:bolder;
+}
+.dwarak{
+    text-align:center ;
+}
+.poppins-thin-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+  }
